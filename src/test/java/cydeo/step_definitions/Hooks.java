@@ -1,6 +1,7 @@
 package cydeo.step_definitions;
 
 
+import cydeo.utilities.BrowserUtils;
 import cydeo.utilities.Driver;
 import io.cucumber.java.*;
 import org.openqa.selenium.OutputType;
@@ -44,7 +45,7 @@ public class Hooks {
         }
 
 
-        Driver.closeDriver();
+//        Driver.closeDriver();
 //        System.out.println("Closing browser using cucumber @After");
 //        System.out.println("scenario ended take screenshot if failed!");
 

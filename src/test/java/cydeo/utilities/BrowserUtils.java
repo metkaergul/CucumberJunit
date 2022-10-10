@@ -1,5 +1,6 @@
 package cydeo.utilities;
 
+import cydeo.pages.DropdownsPage;
 import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -64,7 +65,7 @@ for given duration
     }
 
     /**
-     * This method will accept a String as expected value and verify actual URL CONTAINS the value.
+     * This method will accept a String as expected value verify actual URL CONTAINS the value
      * @param expectedInURL
      */
     public static void verifyURLContains(String expectedInURL){
