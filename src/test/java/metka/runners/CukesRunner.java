@@ -12,6 +12,7 @@ import org.junit.runner.RunWith;
                "html:target/cucumber-report.html",
                "rerun:target/rerun.txt",
                "me.jvt.cucumber.report.PrettyReports:target/cucumber",
+                "junit:target/junit/junit-report.xml",
  },
         features = "src/test/resources/features",
         glue = "metka/step_definitions",

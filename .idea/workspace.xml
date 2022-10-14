@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8ae63a-64d1-4046-a19d-978a2a1a991e" name="Changes" comment="add smoke tags" />
+    <list default="true" id="1a8ae63a-64d1-4046-a19d-978a2a1a991e" name="Changes" comment="add josn report plugin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,6 +171,7 @@
       <workItem from="1665587309118" duration="470000" />
       <workItem from="1665588748661" duration="366000" />
       <workItem from="1665589289750" duration="19795000" />
+      <workItem from="1665768002045" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1665102340335</created>
@@ -184,7 +187,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665419702366</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new updates">
+      <created>1665768077090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665768077090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add smoke tags">
+      <created>1665768169971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665768169971</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add josn report plugin">
+      <created>1665768437103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665768437103</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +227,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="new updates" />
+    <MESSAGE value="add smoke tags" />
+    <MESSAGE value="add josn report plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="add josn report plugin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
