@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8ae63a-64d1-4046-a19d-978a2a1a991e" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/SampleData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VyTrackQa2Users.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/StudyHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/StudyLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/VtTrackDashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/VyTrackLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/runners/FailedTestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/runners/StudyLoginRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/LoginStudy_Step_Definitons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/tests/ExcelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/tests/VyTrackLoginDDTTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/metka/tests/WriteExcell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginStudy.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/DropdownsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/DropdownsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/GoogleSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/GoogleSearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/HomePages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/HomePages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/LoginPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/LoginPages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/LoginWebTablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/LoginWebTablePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/OrderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/ViewAllOrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/ViewAllOrderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/WikipediaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/WikipediaPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/GoogStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/GoogStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/GoogleStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/GoogleStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Login_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/Login_StepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Logout_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/Logout_StepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/OrderStep_Definitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/OrderStep_Definitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WebTableStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/WebTableStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WikiStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/WikiStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/dataTable_StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/dataTable_StepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/ConfigurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/webtableOrder.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/webtableOrder.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/wiki.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/wiki.feature" afterDir="false" />
-    </list>
+    <list default="true" id="1a8ae63a-64d1-4046-a19d-978a2a1a991e" name="Changes" comment="add smoke tags" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
