@@ -5,24 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a8ae63a-64d1-4046-a19d-978a2a1a991e" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/pages/DropdownsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/pages/LoginWebTablePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/pages/OrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/pages/ViewAllOrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/OrderStep_Definitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WebTableStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/dataTable_StepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/dataTables.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/loginWebTable.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/webtableOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SampleData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VyTrackQa2Users.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/StudyHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/StudyLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/VtTrackDashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/pages/VyTrackLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/runners/FailedTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/runners/StudyLoginRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/LoginStudy_Step_Definitons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/tests/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/tests/VyTrackLoginDDTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/metka/tests/WriteExcell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginStudy.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/WikipediaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cydeo/pages/WikipediaPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cydeo/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WikiStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WikiStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cydeo/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/googleSearc.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/googleSearc.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/DropdownsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/DropdownsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/GoogleSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/GoogleSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/HomePages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/HomePages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/LoginPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/LoginPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/LoginWebTablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/LoginWebTablePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/OrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/ViewAllOrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/ViewAllOrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/pages/WikipediaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/pages/WikipediaPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/GoogStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/GoogStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/GoogleStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/GoogleStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Login_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/Login_StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/Logout_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/Logout_StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/OrderStep_Definitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/OrderStep_Definitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WebTableStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/WebTableStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/WikiStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/WikiStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/step_definitions/dataTable_StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/step_definitions/dataTable_StepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cydeo/utilities/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/metka/utilities/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/webtableOrder.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/webtableOrder.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/wiki.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/wiki.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,110 +77,106 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.CukesRunner">
-    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.VyTrackLoginDDTTest.loginDDTTest">
+    <configuration name="ExcelRead.read_from_excel_file" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9-CucumberJunit" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: login" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="PATTERN" value="metka.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="metka.tests" />
+      <option name="MAIN_CLASS_NAME" value="metka.tests.ExcelRead" />
+      <option name="METHOD_NAME" value="read_from_excel_file" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Wikipedia Search Functionality  Title Verification" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/wiki.feature" />
-      <option name="GLUE" value="cydeo.step_definitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="EU9-CucumberJunit" />
-      <option name="NAME_FILTER" value="^Wikipedia Search Functionality  Title Verification$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Wikipedia Search Functionality  Title Verification$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Wikipedia Search Functionality  Title Verification" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Wikipedia Search Functionality Header Verification" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/wiki.feature" />
-      <option name="GLUE" value="cydeo.step_definitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="EU9-CucumberJunit" />
-      <option name="NAME_FILTER" value="^Wikipedia Search Functionality Header Verification$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Wikipedia Search Functionality Header Verification$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Wikipedia Search Functionality Header Verification" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Wikipedia Search Functionality Image Header Verification" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/wiki.feature" />
-      <option name="GLUE" value="cydeo.step_definitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="EU9-CucumberJunit" />
-      <option name="NAME_FILTER" value="^Wikipedia Search Functionality Image Header Verification$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Wikipedia Search Functionality Image Header Verification$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Wikipedia Search Functionality Image Header Verification" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudyLoginRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EU9-CucumberJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cydeo.runners.*" />
+          <option name="PATTERN" value="metka.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cydeo.runners" />
-      <option name="MAIN_CLASS_NAME" value="cydeo.runners.CukesRunner" />
+      <option name="PACKAGE_NAME" value="metka.runners" />
+      <option name="MAIN_CLASS_NAME" value="metka.runners.StudyLoginRunner" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VyTrackLoginDDTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9-CucumberJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metka.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="metka.tests" />
+      <option name="MAIN_CLASS_NAME" value="metka.tests.VyTrackLoginDDTTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VyTrackLoginDDTTest.loginDDTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9-CucumberJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metka.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="metka.tests" />
+      <option name="MAIN_CLASS_NAME" value="metka.tests.VyTrackLoginDDTTest" />
+      <option name="METHOD_NAME" value="loginDDTTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteExcell.excel_Write" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EU9-CucumberJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metka.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="metka.tests" />
+      <option name="MAIN_CLASS_NAME" value="metka.tests.WriteExcell" />
+      <option name="METHOD_NAME" value="excel_Write" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CukesRunner" />
-        <item itemvalue="Cucumber Java.Scenario: Wikipedia Search Functionality Image Header Verification" />
-        <item itemvalue="Cucumber Java.Scenario: Wikipedia Search Functionality Header Verification" />
-        <item itemvalue="Cucumber Java.Scenario: Wikipedia Search Functionality  Title Verification" />
-        <item itemvalue="Cucumber Java.Feature: login" />
+        <item itemvalue="JUnit.VyTrackLoginDDTTest.loginDDTTest" />
+        <item itemvalue="JUnit.VyTrackLoginDDTTest" />
+        <item itemvalue="JUnit.WriteExcell.excel_Write" />
+        <item itemvalue="JUnit.StudyLoginRunner" />
+        <item itemvalue="JUnit.ExcelRead.read_from_excel_file" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +205,13 @@
       <workItem from="1665070946570" duration="18051000" />
       <workItem from="1665152452187" duration="13052000" />
       <workItem from="1665243734727" duration="21915000" />
-      <workItem from="1665399700981" duration="10820000" />
+      <workItem from="1665399700981" duration="13099000" />
+      <workItem from="1665422827308" duration="9001000" />
+      <workItem from="1665511835528" duration="1206000" />
+      <workItem from="1665525654827" duration="4967000" />
+      <workItem from="1665587309118" duration="470000" />
+      <workItem from="1665588748661" duration="366000" />
+      <workItem from="1665589289750" duration="19795000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1665102340335</created>
@@ -195,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665102340335</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updates">
+      <created>1665419702366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665419702366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
